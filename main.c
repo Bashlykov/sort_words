@@ -1,8 +1,6 @@
 /**********************[ Sorting words ]*********
 *
-*	Written By Bashlykov Sergey
-*	Copyright (c) 2013 Bashlykov Sergey
-*	All rights reserved.
+*	Bash Serge 2013
 *
 *******************************************
 *
